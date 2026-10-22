@@ -1,0 +1,20 @@
+# Datasets (large folders)
+dataset/
+dataset_flat/
+dataset_reduced/
+*.zip
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Model checkpoint (Optional: uncomment if you prefer to host weights via Drive/Release)
+# daa_mdenet_best.pth
+
+# OS files
+.DS_Store
+Thumbs.db
